@@ -1,4 +1,4 @@
-# continuous_control
+# Reinforcement Learning - Continuous Control of a Robotic Arm
 
 ### Introduction 
 *(From Udacity Course Website)*
