@@ -3,7 +3,7 @@
 ### Introduction 
 *(From Udacity Course Website)*
 
-For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
+For this project, we will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
 
 ![Unity ML Agents Reacher Environment](https://raw.github.com/AshStuDas/continuous_control/master/reacher.gif)
 
